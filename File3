@@ -1,0 +1,4 @@
+#include <iostream>
+using namespace std;
+float hitungLuasPersegiPanjang(float p, float l){return p * 1;}
+float hitungLuasSegitiga(float a, float t){return 0.5 * a * t;}
